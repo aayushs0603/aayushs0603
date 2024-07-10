@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **aayush.sinha@iitg.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sSEtX6SRBjZ5tlL19C6xjZ0srpevpYro/view?usp=drive_link](https://drive.google.com/file/d/1sSEtX6SRBjZ5tlL19C6xjZ0srpevpYro/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/aayush_369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aayush_369" height="30" width="40" /></a>
